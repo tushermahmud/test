@@ -1,0 +1,7 @@
+pip install nltk 
+pip install numpy
+pip install tflearn
+pip install tensorflow 
+
+
+#pip install -r (path of the requirement)
